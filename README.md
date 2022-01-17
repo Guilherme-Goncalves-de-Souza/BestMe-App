@@ -9,7 +9,7 @@
 1° Instale o <a href="https://nodejs.org/en/">NodeJS</a> em sua máquina. <br>
 2° Abra o terminal ou o CMD do seu computador e digite: node -v <br>
 - ✅ Se aparecer a versão do node você poderá continuar com o tutorial. <br>
-- ❌ Caso não apareça sugiro que veja esse vídeo sobre a instalação do node. https://www.youtube.com/watch?v=HV3gGblB2G4 . <br>
+- ❌ Caso não apareça sugiro que veja esse vídeo sobre a instalação do node: https://www.youtube.com/watch?v=HV3gGblB2G4 . <br>
 
 3° Tenha instalado em sua maquina o <a href="https://code.visualstudio.com/">Visual Studio Code</a>.<br>
 4° Baixe o arquivo do BestMe App e abra o ele no Visual Studio Code.<br>
