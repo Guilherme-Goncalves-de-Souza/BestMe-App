@@ -21,3 +21,8 @@
 - Com isso aparecerá as perguntas para serem respondidas :)
 
 ## Tecnologias usadas:
+
+<div>
+  <img align = "center" width="40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> - 
+  <img align = "center" width="100px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
+</div>
