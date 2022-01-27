@@ -12,11 +12,24 @@
 - ❌ Caso não apareça sugiro que veja esse vídeo sobre a instalação do node: https://www.youtube.com/watch?v=HV3gGblB2G4 . <br>
 
 3° Tenha instalado em sua maquina o <a href="https://code.visualstudio.com/">Visual Studio Code</a>.<br>
-4° Baixe o arquivo do BestMe App e abra o ele no Visual Studio Code.<br>
-5° Já dentro do arquivo, agora abra o terminal do Visual Studio Code.<br>
+
+4° Baixe o arquivo do BestMe App 
+
+5° Entre na pasta destacada na imagem abaixo: <br>
+![image](https://user-images.githubusercontent.com/85903509/151397458-1249119f-be54-490a-966f-ef4a607d39ab.png)
+
+6° Mova os arquivos para a pasta destacada na imagem abaixo:
+![image](https://user-images.githubusercontent.com/85903509/151397612-063a137c-d839-4557-9580-cd58b111624e.png)
+
+7° Agora excluia a pasta destacada na imagem abaixo: <br>
+![image](https://user-images.githubusercontent.com/85903509/151397720-e133bcad-22c5-473e-b14b-ae126a1b882a.png)
+
+8° Agora abra o arquivo no Visual Studio Code.
+
+9° Já dentro do arquivo, agora abra o terminal do Visual Studio Code.<br>
 - Você pode abrir ele no menu superior do Visual Studio Code ou com os seguintes comandos: Ctrl + Shift + ' 
 
-6° Digite o seguinte comando: node index
+10° Digite o seguinte comando: node index
 
 - Com isso aparecerá as perguntas para serem respondidas :)
 
