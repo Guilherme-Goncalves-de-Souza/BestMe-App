@@ -18,7 +18,7 @@
 5° Entre na pasta destacada na imagem abaixo: <br>
 ![image](https://user-images.githubusercontent.com/85903509/151397458-1249119f-be54-490a-966f-ef4a607d39ab.png)
 
-6° Mova os arquivos para a pasta destacada na imagem abaixo:
+6° Mova os arquivos para a pasta destacada na imagem abaixo: <br>
 ![image](https://user-images.githubusercontent.com/85903509/151397612-063a137c-d839-4557-9580-cd58b111624e.png)
 
 7° Agora excluia a pasta destacada na imagem abaixo: <br>
